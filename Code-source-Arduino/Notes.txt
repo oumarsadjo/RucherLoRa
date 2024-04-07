@@ -1,0 +1,29 @@
+Instructions pour installer RucherLoRa sur votre Arduino :
+
+1. Téléchargez le fichier RucherLoRa.zip sur votre ordinateur.
+
+2. Extrayez le contenu du fichier RucherLoRa.zip pour obtenir les fichiers du programme Arduino.
+
+3. Localisez le dossier des bibliothèques Arduino sur votre ordinateur.
+
+4. Copiez les bibliothèques nécessaires contenues dans le dossier extrait dans le dossier "libraries" de votre répertoire Arduino.
+
+5. Ouvrez le fichier principal du programme Arduino (fichier avec l'extension .ino) avec l'IDE Arduino.
+
+6. Sélectionnez le type de carte que vous utilisez dans le menu Outils > Type de carte.
+
+7. Sélectionnez le port auquel votre Arduino est connecté dans le menu Outils > Port.
+
+8. Cliquez sur le bouton "Téléverser" dans l'IDE Arduino pour téléverser le programme sur votre carte Arduino.
+
+9. Vérifiez la sortie de l'IDE Arduino pour toute erreur et corrigez-les si nécessaire.
+
+10. Une fois le téléversement terminé avec succès, déconnectez votre Arduino de l'ordinateur et connectez-le à votre projet.
+
+11. Si le dossier extrait contient des exemples, ouvrez l'IDE Arduino.
+
+12. Allez dans Fichier > Exemples.
+
+13. Recherchez le nom du dossier contenant les exemples de RucherLoRa et ouvrez-le.
+
+14. Choisissez l'exemple que vous souhaitez explorer et ouvrez-le dans l'IDE Arduino pour l'étudier ou le téléverser sur votre Arduino.

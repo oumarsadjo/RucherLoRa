@@ -1,0 +1,10 @@
+Output: PCB 3D Print
+Type  : PCB 3D Print
+From  : Variant [[No Variations]] of PCB Document [GatewayLoRa.PcbDoc]
+   Generated File[GatewayLoRa.png]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:12:29 PM On 3/22/2024
